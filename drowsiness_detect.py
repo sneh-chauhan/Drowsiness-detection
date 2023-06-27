@@ -11,8 +11,8 @@ EAR_CONSEC_FRAMES = 20
 # Twilio account credentials
 TWILIO_ACCOUNT_SID = 'ACd1deb0b75edb76bbfa51babf29b0c138'
 TWILIO_AUTH_TOKEN = 'a18b290043b46f40807dfe83e8ed1888'
-TWILIO_PHONE_NUMBER = 'whatsapp:+14155238886'
-RECIPIENT_PHONE_NUMBER = 'whatsapp:+919104805395'
+TWILIO_PHONE_NUMBER = 'whatsapp:+14'
+RECIPIENT_PHONE_NUMBER = 'whatsapp:+91'
 
 # Function to calculate eye aspect ratio (EAR)
 def eye_aspect_ratio(eye):
